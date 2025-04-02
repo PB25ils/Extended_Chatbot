@@ -1,1 +1,0 @@
-Make sure to keep the grid lines straight and use light pencil strokes. Checking alignment regularly helps maintain accuracy.
