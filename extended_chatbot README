@@ -1,0 +1,9 @@
+extended_chatbot README
+=======================
+
+Grido is an interactive chatbot that teaches users about the Grid Drawing Method, a technique to improve drawing accuracy. 
+The chatbot recognizes user input and responds with information on different aspects of grid drawing.
+
+## Requirements
+- Python 3.12.9 or lower (Python 3.13+ is **not** supported)
+- `nltk` library 
